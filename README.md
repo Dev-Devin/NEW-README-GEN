@@ -1,5 +1,5 @@
 
-  # Readme Generator
+  # ReadMe Generator
   ### ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   ## Table of Contents:
   1. [Description](#Description)
@@ -10,15 +10,15 @@
   6. [License](#License)
   7. [Questions](#Questions)
   ## Description
-  README generator 
+  readme generator 
   ## Installation
-  You need to run node.js and inquirer.js
+  run npm i 
   ## Usage
-  Run node index and answer the prompted questions which will then create a README.md file
+  run node index and answer prompted questions
   ## Contributing
-  all contributers welcome
+  follow guidelines when pulling
   ## Tests
-  making sure README.md runs correctly 
+  make sure readme runs correctly
   
   ## License
   This application is covered by [MIT License](https://choosealicense.com/licenses/mit/).
