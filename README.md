@@ -1,37 +1,36 @@
-# ReadMe Generator
+# PROJECT 1
 
-### ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Table of Contents:
 
-1. [Description](#Description)
-2. [Installation](#Installation)
-3. [Usage](#Usage)
-4. [Contributing](#Contributing)
-5. [Tests](#Tests)
-6. [License](#License)
-7. [Questions](#Questions)
+1. [Description](#description)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Contributing](#contributing)
+5. [Tests](#tests)
+6. [License](#license)
+7. [Questions](#questions)
 
 ## Description
 
-readme generator
+creating a ReadMe
 
 ## Installation
 
-run npm i
+npm i
 
 ## Usage
 
-run node index and answer prompted questions
-[walk-through-video](https://watch.screencastify.com/v/rPCRYKPq5QWwBvOw7I06)
+clone repo, run index
 
 ## Contributing
 
-follow guidelines when pulling
+fork repo
 
 ## Tests
 
-make sure readme runs correctly
+n/a
 
 ## License
 

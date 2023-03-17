@@ -64,7 +64,7 @@ const questions = [
 // function writeToFile(fileName, data) {}
 
 inquirer.prompt(questions).then((response) => {
-  fs.writeFile("README.md", generateMarkdown(response), (err) =>
+  fs.writeFile("./dist/README.md", generateMarkdown(response), (err) =>
     err ? console.error(err) : console.log("Success!")
   );
 });
