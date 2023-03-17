@@ -1,4 +1,4 @@
-# PROJECT 1
+# NEW-README-GEN
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
@@ -22,6 +22,7 @@ npm i
 
 ## Usage
 
+[WALK-THROUGH VIDEO](https://drive.google.com/file/d/1C06UwwbcD5gXeMGao4a0Yjf_A2L7fqcY/view)
 clone repo, run index
 
 ## Contributing
